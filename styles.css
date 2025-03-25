@@ -3,3 +3,15 @@
     margin: 0;
     padding: 0;
 } 
+
+.btn
+{
+    border: none;
+    background-color: #aaaaaa;
+    color: #171717;
+
+    font-size: 1.2rem;
+    text-transform: uppercase;
+
+    padding: 1.2em 1.6em;
+}
